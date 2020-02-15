@@ -5,7 +5,7 @@ This assignment is to refactor an existing webpage to make it accesssible.
 What I have did in this task:
 
 1) make sure the HTML elements are in semantic order. 
-2)I went through the structure of HTML elements and make sure all the elements follow a logical structure.
+2) I went through the structure of HTML elements and make sure all the elements follow a logical structure.
 3) I added alt attributes for the image elements.
 4) I put the heading attributes in sequential order.
 5) I put descriptive comments before the section of the html.
