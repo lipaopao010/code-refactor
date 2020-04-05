@@ -16,5 +16,6 @@ This project is to refactor an existing webpage to make it accesssible.
 
 I learned to organise the HTML in a more logical order and make sure the CSS is more efficient. The descriptions before each elements are also very good to make the HTML more organised. In this way, the website will be more easy to maintain.
 
-
+## Deployed link
+ https://lipaopao010.github.io/homework-one/
 
